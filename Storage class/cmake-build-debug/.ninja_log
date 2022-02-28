@@ -1,0 +1,27 @@
+# ninja log v5
+0	271	6611722252580288	CMakeFiles/Storage_class.dir/main.cpp.obj	d2b5bc0bfdcb8e37
+272	331	6611722253074359	Storage_class.exe	66441f6c776fcbc2
+3	59	6611725144744819	CMakeFiles/Storage_class.dir/main.cpp.obj	d2b5bc0bfdcb8e37
+59	127	6611725145382941	Storage_class.exe	66441f6c776fcbc2
+2	57	6611726660773172	CMakeFiles/Storage_class.dir/main.cpp.obj	d2b5bc0bfdcb8e37
+57	115	6611726661245405	Storage_class.exe	66441f6c776fcbc2
+1	59	6611728402546598	CMakeFiles/Storage_class.dir/main.cpp.obj	d2b5bc0bfdcb8e37
+60	125	6611728403241397	Storage_class.exe	66441f6c776fcbc2
+2	76	6611761196894350	CMakeFiles/Storage_class.dir/main.cpp.obj	d2b5bc0bfdcb8e37
+87	151	6611761197596190	Storage_class.exe	66441f6c776fcbc2
+1	53	6611761477574482	CMakeFiles/Storage_class.dir/main.cpp.obj	d2b5bc0bfdcb8e37
+54	108	6611761478054119	Storage_class.exe	66441f6c776fcbc2
+1	53	6611761670214403	CMakeFiles/Storage_class.dir/main.cpp.obj	d2b5bc0bfdcb8e37
+53	108	6611761670696797	Storage_class.exe	66441f6c776fcbc2
+2	52	6611762053397747	CMakeFiles/Storage_class.dir/main.cpp.obj	d2b5bc0bfdcb8e37
+52	109	6611762054035423	Storage_class.exe	66441f6c776fcbc2
+1	67	6612410100427570	CMakeFiles/Storage_class.dir/main.cpp.obj	d2b5bc0bfdcb8e37
+67	141	6612410101066974	Storage_class.exe	66441f6c776fcbc2
+1	55	6612410479398588	CMakeFiles/Storage_class.dir/main.cpp.obj	d2b5bc0bfdcb8e37
+55	109	6612410479838259	Storage_class.exe	66441f6c776fcbc2
+2	51	6612410615790764	CMakeFiles/Storage_class.dir/main.cpp.obj	d2b5bc0bfdcb8e37
+51	103	6612410616161852	Storage_class.exe	66441f6c776fcbc2
+2	50	6612411279761504	CMakeFiles/Storage_class.dir/main.cpp.obj	d2b5bc0bfdcb8e37
+50	102	6612411280245446	Storage_class.exe	66441f6c776fcbc2
+2	58	6612411768591549	CMakeFiles/Storage_class.dir/main.cpp.obj	d2b5bc0bfdcb8e37
+58	115	6612411769232700	Storage_class.exe	66441f6c776fcbc2

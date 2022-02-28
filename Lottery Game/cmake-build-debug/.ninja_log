@@ -1,0 +1,5 @@
+# ninja log v5
+2	70	6613197119061192	CMakeFiles/Lottery_Game.dir/main.cpp.obj	6e46ce13102f023e
+81	154	6613255885489614	Lottery_Game.exe	16833e86229356e4
+20	182	6613260979672433	build.ninja	42c7760622c164a8
+0	80	6613255884842314	CMakeFiles/Lottery_Game.dir/Lottery_Game.cpp.obj	7eaf28eabd461cad

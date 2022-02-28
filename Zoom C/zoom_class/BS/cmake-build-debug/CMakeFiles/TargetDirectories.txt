@@ -1,0 +1,3 @@
+C:/Users/Nii-san/CLionProjects/Zoom C/zoom_class/BS/cmake-build-debug/CMakeFiles/BS.dir
+C:/Users/Nii-san/CLionProjects/Zoom C/zoom_class/BS/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Nii-san/CLionProjects/Zoom C/zoom_class/BS/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+C:/Users/Nii-san/CLionProjects/Sort/for_test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Nii-san/CLionProjects/Sort/for_test/cmake-build-debug/CMakeFiles/for_test.dir
+C:/Users/Nii-san/CLionProjects/Sort/for_test/cmake-build-debug/CMakeFiles/edit_cache.dir

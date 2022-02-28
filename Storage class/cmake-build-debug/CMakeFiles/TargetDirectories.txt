@@ -1,0 +1,3 @@
+C:/Users/Nii-san/CLionProjects/Storage class/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Nii-san/CLionProjects/Storage class/cmake-build-debug/CMakeFiles/Storage_class.dir
+C:/Users/Nii-san/CLionProjects/Storage class/cmake-build-debug/CMakeFiles/edit_cache.dir

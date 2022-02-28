@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Re-Ki/CPP/linkedlist/cmake-build-debug",
-		"source" : "C:/Re-Ki/CPP/linkedlist"
+		"build" : "C:/Re-Ki/CPP/linkedlist append/cmake-build-debug",
+		"source" : "C:/Re-Ki/CPP/linkedlist append"
 	},
 	"version" : 
 	{

@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Re-Ki/CPP/linkedlist/cmake-build-debug"
+			"value" : "c:/Re-Ki/Zoom C/test1/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -623,7 +623,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Re-Ki/CPP/linkedlist"
+			"value" : "C:/Re-Ki/Zoom C/test1"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -635,7 +635,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Program Files (x86)/linkedlist"
+			"value" : "C:/Program Files (x86)/test1"
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -851,7 +851,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "linkedlist"
+			"value" : "test1"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1230,7 +1230,7 @@
 			"value" : "FALSE"
 		},
 		{
-			"name" : "linkedlist_BINARY_DIR",
+			"name" : "test1_BINARY_DIR",
 			"properties" : 
 			[
 				{
@@ -1239,10 +1239,10 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Re-Ki/CPP/linkedlist/cmake-build-debug"
+			"value" : "C:/Re-Ki/Zoom C/test1/cmake-build-debug"
 		},
 		{
-			"name" : "linkedlist_IS_TOP_LEVEL",
+			"name" : "test1_IS_TOP_LEVEL",
 			"properties" : 
 			[
 				{
@@ -1254,7 +1254,7 @@
 			"value" : "ON"
 		},
 		{
-			"name" : "linkedlist_SOURCE_DIR",
+			"name" : "test1_SOURCE_DIR",
 			"properties" : 
 			[
 				{
@@ -1263,7 +1263,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Re-Ki/CPP/linkedlist"
+			"value" : "C:/Re-Ki/Zoom C/test1"
 		}
 	],
 	"kind" : "cache",

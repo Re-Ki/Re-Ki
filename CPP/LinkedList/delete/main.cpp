@@ -73,6 +73,34 @@ bool search(Node* head,int key){
     return false;
 }
 
+void deleteNode(Node** head_ref , int key){
+
+    Node* prev = NULL; // for flag where the key was before found
+
+    Node* temp = *head_ref;
+
+    if( temp != NULL && temp->data == key){//first node
+
+        *head_ref = temp->next;
+        delete temp;
+        return;
+    }
+    else{
+        while (temp != NULL && temp->data != key){
+
+            prev = temp;
+            temp = temp->next;
+        }
+
+        if(temp == NULL)
+            return;
+
+        prev->next = temp->next;
+        delete temp;
+    }
+
+}
+
 void dt_print(Node* node){
 
     while(node != NULL){
@@ -140,6 +168,13 @@ int main(){
     }else{
         cout<<"We not found data:"<<key<<endl;
     }
+
+    int dkey=222;
+    deleteNode(&head,dkey);
+
+    cout<<endl;
+    cout<<"After delete "<<endl;
+    dt_print(head);
 
     return 0;
 }

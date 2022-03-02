@@ -1,0 +1,7 @@
+# ninja log v5
+0	100	6679131881724647	CMakeFiles/InitStack.dir/main.cpp.obj	1f8ac1f0b7d9101b
+101	158	6679131882272828	InitStack.exe	523ab8f946359629
+1	57	6679135692203167	CMakeFiles/InitStack.dir/main.cpp.obj	1f8ac1f0b7d9101b
+57	111	6679135692726959	InitStack.exe	523ab8f946359629
+2	62	6679135808338985	CMakeFiles/InitStack.dir/main.cpp.obj	1f8ac1f0b7d9101b
+63	111	6679135808807790	InitStack.exe	523ab8f946359629

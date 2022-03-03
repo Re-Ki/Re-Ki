@@ -1,0 +1,11 @@
+# ninja log v5
+1	138	6679792943383857	CMakeFiles/PushToStack.dir/main.cpp.obj	a3cd6a14cf38e41d
+139	227	6679792944221335	PushToStack.exe	20b86f2352c61da0
+2	78	6679802266896069	CMakeFiles/PushToStack.dir/main.cpp.obj	a3cd6a14cf38e41d
+78	141	6679802267493135	PushToStack.exe	20b86f2352c61da0
+2	70	6679808061907651	CMakeFiles/PushToStack.dir/main.cpp.obj	a3cd6a14cf38e41d
+70	128	6679808062465779	PushToStack.exe	20b86f2352c61da0
+2	59	6679809742084015	CMakeFiles/PushToStack.dir/main.cpp.obj	a3cd6a14cf38e41d
+59	113	6679809742582122	PushToStack.exe	20b86f2352c61da0
+2	58	6679809848642032	CMakeFiles/PushToStack.dir/main.cpp.obj	a3cd6a14cf38e41d
+59	119	6679809849220112	PushToStack.exe	20b86f2352c61da0

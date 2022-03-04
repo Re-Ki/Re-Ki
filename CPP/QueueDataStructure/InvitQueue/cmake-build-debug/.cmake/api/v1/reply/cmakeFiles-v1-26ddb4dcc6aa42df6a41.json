@@ -757,8 +757,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "C:/Re-Ki/CPP/StackDataStructure/StackWithLinkList/cmake-build-debug",
-		"source" : "C:/Re-Ki/CPP/StackDataStructure/StackWithLinkList"
+		"build" : "C:/Re-Ki/CPP/QueueDataStructure/InvitQueue/cmake-build-debug",
+		"source" : "C:/Re-Ki/CPP/QueueDataStructure/InvitQueue"
 	},
 	"version" : 
 	{

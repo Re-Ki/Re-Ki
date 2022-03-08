@@ -18,7 +18,17 @@ Queue initQueue(){
 
 void enqueue(Queue Q,int n){
 
+    if(Q->tail == MaxQ-1){
+        Q->tail = 0;
 
+    }else{
+        ++(Q->tail);
+    }
+    if(Q->tail == Q->head){
+        printf("\nQueue is full\n");
+        exit(1);
+    }
+    Q->QA[Q->tail] = n;
 }
 
 int main(){
@@ -29,9 +39,8 @@ int main(){
     scanf("%d",&n);
     while (n > 0){
         enqueue(Q , n%10);
-
+        n = n/10;
     }
-
 
     return 0;
 }

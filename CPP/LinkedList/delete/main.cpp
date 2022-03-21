@@ -169,11 +169,11 @@ int main(){
         cout<<"We not found data:"<<key<<endl;
     }
 
-    int dkey=222;
+    int dkey=3;
     deleteNode(&head,dkey);
 
     cout<<endl;
-    cout<<"After delete "<<endl;
+    cout<<"After delete :"<<endl;
     dt_print(head);
 
     return 0;

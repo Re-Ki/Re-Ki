@@ -6,7 +6,7 @@ typedef struct {
 // type declaration , init , malloc
     int head,tail;
     int QA[MaxQ];
-}Qtype , *Queue;//int a,*b;
+}Qtype , *Queue;
 
 Queue initQueue(){
 

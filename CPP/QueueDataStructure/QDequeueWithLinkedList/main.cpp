@@ -62,7 +62,6 @@ QueueData dequeue(Queue Q){
     }
     free(temp);
     return hold;
-
 }
 
 int main(){
@@ -77,7 +76,6 @@ int main(){
         enqueue(Q , temp);
         n = n /10;
     }
-
     printf("\n Reverse Order :");
     while(!empty(Q)){
 

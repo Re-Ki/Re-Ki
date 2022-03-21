@@ -44,7 +44,6 @@ int pop(Stack S){
     S->top = S->top->next;
     free(temp);
     return hold;
-
 }
 
 int main(){

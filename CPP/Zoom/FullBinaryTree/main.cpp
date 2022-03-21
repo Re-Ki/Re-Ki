@@ -3,46 +3,44 @@ using namespace std;
 
 struct Node{
     int key;
-    struct Node *left, *right;
+    struct Node *left , *right;
 };
 
-struct Node *newNode(char k){
+struct  Node *newNode(char data){
 
-    struct Node *node = (struct Node *)malloc(sizeof (Node));
-    node->key = k;
-    node->right = node->left = NULL;
-    return node;
-
+    struct Node *node = (struct Node*) malloc(sizeof(struct Node));
+    node -> key  = data;
+    node->left = node->right = NULL;
 }
 
-bool isFullBinaryTree(struct Node *root){
+bool isFullbinaryTree(struct Node *root){
 
     if(root == NULL)
         return true;
 
-    if(root->left == NULL && root->right == NULL)
+    if( root->left == NULL && root->right == NULL)
         return true;
 
     if((root->left) && (root->right))
-        return (isFullBinaryTree(root->left) && isFullBinaryTree(root->right));
-
-    return false;
+        return (isFullbinaryTree(root->left))&&
+                isFullbinaryTree(root->right);
 }
 
-int  main(){
+int main(){
+
     struct Node *root = NULL;
-    root = newNode(1);
-    root->left = newNode(2);
+    root = newNode(8);
+    root->left = newNode(10);
     root->right = newNode(3);
-    root->right->right = newNode(9);
-    root->left->left = newNode(4);
-    root->left->left->right = newNode(8);
-    root->left->right = newNode(5);
-    root->left->right->left = newNode(6);
+    root->left->left =newNode(4);
+    root->left->right = newNode(2);
+    root->left->right->left = newNode(17);
     root->left->right->right = newNode(7);
 
-    if(isFullBinaryTree(root))
-        cout<<"The Tree is a full binary Tree\n";
+    if(isFullbinaryTree(root))
+        cout<<"Full Binary Tree\n";
     else
-        cout<<"The Tree is not a full binary Tree\n";
+        cout<<"Is not Full Binary Tree\n";
+
+    return 0;
 }

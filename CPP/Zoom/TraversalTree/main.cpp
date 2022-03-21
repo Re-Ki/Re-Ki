@@ -2,12 +2,14 @@
 using namespace std;
 
 struct Node{
+
     int data;
     struct Node *left,*right;
     Node(int data){
         this->data = data;
-        left = right  = NULL;
+        left = right = NULL;
     }
+
 };
 
 void postorder(struct Node* node){
@@ -16,7 +18,7 @@ void postorder(struct Node* node){
 
     postorder(node->left);
     postorder(node->right);
-    cout << node->data << "->";
+    cout<<node->data<<"->";
 
 }
 
@@ -24,16 +26,15 @@ void inorder(struct Node* node){
     if(node == NULL)
         return;
     inorder(node->left);
-    cout << node->data << "->";
+    cout<<node->data<<"->";
     inorder(node->right);
-
 
 }
 
 void preorder(struct Node* node){
     if(node == NULL)
         return;
-    cout << node->data << "->";
+    cout<<node->data<<"->";
     preorder(node->left);
     preorder(node->right);
 
@@ -48,13 +49,13 @@ int main(){
     root->left->left = new Node(4);
     root->left->right = new Node(2);
 
-    cout<<"Inorder traversal ";
+    cout<<"Inorder Traversal ";
     inorder(root);
 
-    cout<<"\nPreorder traversal ";
+    cout<<"\nPreorder Traversal ";
     preorder(root);
 
-    cout<<"\nPostorder traversal ";
+    cout<<"\nPostorder Traversal ";
     postorder(root);
 
     return 0;

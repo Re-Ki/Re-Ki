@@ -1,0 +1,3 @@
+C:/Re-Ki/CPP/Tree Data Structure/Preorder Traversal/cmake-build-debug/CMakeFiles/Preorder_Traversal.dir
+C:/Re-Ki/CPP/Tree Data Structure/Preorder Traversal/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Re-Ki/CPP/Tree Data Structure/Preorder Traversal/cmake-build-debug/CMakeFiles/rebuild_cache.dir

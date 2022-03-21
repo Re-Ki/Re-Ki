@@ -65,6 +65,5 @@ int main(){
         printf("%d\n",dequeue(Q));
     }
 
-
     return 0;
 }

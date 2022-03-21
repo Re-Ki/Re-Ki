@@ -1,0 +1,13 @@
+# ninja log v5
+1	584	6693106459816851	CMakeFiles/CompleteBinaryTree.dir/main.cpp.obj	830e1bc4005bba29
+586	921	6693106463154786	CompleteBinaryTree.exe	2d969c19aa3cdafd
+2	241	6693106642951160	CMakeFiles/CompleteBinaryTree.dir/main.cpp.obj	830e1bc4005bba29
+242	338	6693106643879208	CompleteBinaryTree.exe	2d969c19aa3cdafd
+2	255	6693106723710812	CMakeFiles/CompleteBinaryTree.dir/main.cpp.obj	830e1bc4005bba29
+256	346	6693106724568577	CompleteBinaryTree.exe	2d969c19aa3cdafd
+2	253	6693116577712340	CMakeFiles/CompleteBinaryTree.dir/main.cpp.obj	830e1bc4005bba29
+254	349	6693116578679104	CompleteBinaryTree.exe	2d969c19aa3cdafd
+1	237	6693116663099454	CMakeFiles/CompleteBinaryTree.dir/main.cpp.obj	830e1bc4005bba29
+238	309	6693116663806383	CompleteBinaryTree.exe	2d969c19aa3cdafd
+2	268	6693117258019562	CMakeFiles/CompleteBinaryTree.dir/main.cpp.obj	830e1bc4005bba29
+268	352	6693117258827613	CompleteBinaryTree.exe	2d969c19aa3cdafd

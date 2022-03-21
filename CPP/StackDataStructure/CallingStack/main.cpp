@@ -29,11 +29,6 @@ void push(Stack S,int n){
 
 }
 
-int pop(Stack S){
-
-
-}
-
 int main(){
 
     Stack initStack();
